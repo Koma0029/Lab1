@@ -6,7 +6,7 @@ android {
     namespace = "com.example.lab_1"
     compileSdk = 34
     buildFeatures {
-        viewBinding { true }
+        viewBinding = true
     }
     defaultConfig {
         applicationId = "com.example.lab_1"
