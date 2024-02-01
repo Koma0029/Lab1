@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="hinttext">Write something here</string>
+    <string name="editmessage">I\'m an Edit Text</string>
+</resources>
